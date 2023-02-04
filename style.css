@@ -3,11 +3,11 @@ body{
     }
     #button {
       color: white;
-      padding: 15px 15px;
+      padding: 10px 10px;
       text-align: center;
       text-decoration: none;
       display: inline-block;
-      font-size: 16px;
+      font-size: 10px;
       
     }
     #button1 {
@@ -39,20 +39,22 @@ body{
       border-radius: 30%;
     }
     #logo{
-      margin-left:  53px;
+      margin-left:  65px;
     }
     #pic{
-      margin-left:  290px;
+      margin-left:  5px;
     }
     #bt{
-      margin-left:  100px;
+      margin-left:  30px;
     }
     #pic2{
-      margin-left:  218px;
-      margin-right: 5px;
+      margin-left:  5px;
+      margin-right: 1px;
     }
     #right{
-      margin-right: 30px;
+      margin-right: 5px;
       text-align: center;
-   
     }
+    #ol{
+      margin-left:  0px;
+      }
